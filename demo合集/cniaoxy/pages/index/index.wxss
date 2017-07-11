@@ -1,0 +1,8 @@
+.banSwiper{
+  width: 750rpx;
+  height: 234rpx;
+}
+.banSwiper image{
+  width: 100%;
+  height: 100%;
+}

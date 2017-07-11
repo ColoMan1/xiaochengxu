@@ -1,0 +1,10 @@
+/**index.wxss**/
+.c-state1{ 
+ transform: rotate(0deg) scale(1) translate(75%,0%);  
+ -webkit-transform: rotate(0deg) scale(1) translate(75%,0%);  
+}
+.c-state2{ 
+ transform: rotate(0deg) scale(.8) translate(75%,0%);  
+ -webkit-transform: rotate(0deg) scale(.8) translate(75%,0%);  
+} 
+
